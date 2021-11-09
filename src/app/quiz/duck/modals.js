@@ -1,0 +1,5 @@
+const CHECK_MOBILE_PHONE = 'CHECK_MOBILE_PHONE';
+
+export default {
+    CHECK_MOBILE_PHONE
+};

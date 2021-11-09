@@ -1,0 +1,1 @@
+export { default as Amplitude } from './AmplitudeContainer';

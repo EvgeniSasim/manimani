@@ -1,0 +1,28 @@
+const formsFields = {
+    SUM: 'loanAmount',
+    LOAN_DURATION: 'loanDuration',
+    SALARY_LEVEL: 'salaryLevel',
+    EDUCATION: 'education',
+    FIRST_NAME: 'firstName',
+    LAST_NAME: 'lastName',
+    MIDDLE_NAME: 'middleName',
+    CITY: 'city',
+    PASSPORT_SERIES: 'passportSeries',
+    PASSPORT_NUMBER: 'passportNumber',
+    PASSPORT_BIRTH_PLACE: 'passportBirthPlace',
+    PASSPORT_ISSUED_DATE: 'passportIssuedDate',
+    PASSPORT_UNIT_CODE: 'passportUnitCode',
+    PASSPORT_ISSUED: 'passportIssued',
+    BIRTH_DATE: 'birthDate',
+    PHONE_NUMBER: 'phoneNumber',
+    EMAIL: 'email',
+    CONFIRMATION_CODE: 'CONFIRMATION_CODE',
+    LIVING_ADDRESS: 'homeAddress',
+    LIVING_CITY: 'homeCity',
+    LIVING_STREET: 'homeStreet',
+    LIVING_HOUSE: 'homeHouse',
+    GENDER: 'gender',
+    UTM_SOURCE: 'utm_source',
+};
+
+export default formsFields;
