@@ -2,7 +2,7 @@
   "name": "manimani-landing",
   "version": "0.1.0",
   "main": "src/index.jsx",
-  "repository": "ssh://git@git.fin.media:7999/oms/manimani-landing.git",
+  "repository": "",
   "license": "MIT",
   "dependencies": {
     "@symfony/webpack-encore": "^0.20.1",
